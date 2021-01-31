@@ -1,4 +1,4 @@
-# muenchenticket scraping
+# muenchenticket scraping fuer events in der muffathalle
 
 import locale
 from datetime import datetime
